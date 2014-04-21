@@ -11,7 +11,7 @@ And today, I think my idea and tools evolved enough, for starting to create my g
 Actually, the WAPSS project use two main medium to work.
 
 * [OVCSS](https://github.com/LukyVj/OVCSS) = Organise Views CSS
-* [OVCSS](https://github.com/LukyVj/CSSMS) = A CSS CMS
+* [CSSMS](https://github.com/LukyVj/CSSMS) = A CSS CMS
 
 These are basic tools that works ! I'm not saying that they are useful for everyone, but it was my challenge, and I try to make it happen.
 
